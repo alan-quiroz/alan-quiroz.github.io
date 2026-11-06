@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alan-quiroz.github.io/sitemap.xml
